@@ -1,0 +1,31 @@
+{
+    "id": 34,
+    "name": "Hoopa",
+    "avatar": "hoopa",
+    "description": "Surpreenda e confunda os oponentes no Pokémon UNITE com Hoopa, agora disponível para se juntar à sua equipe. Este Pokémon é um Apoiador de Longo alcance estrategicamente complexo que, se usado de forma eficaz, pode ajudar Pokémon aliados a se curarem e se moverem com eficiência pelo campo de batalha, além de causar dano com seus ataques incrivelmente tenebrosos.",
+    "level": 3,
+    "stats_battle": ["Supporter", "Ranged"],
+    "color": "#c36d92",
+    "uri": "hoopa",
+    "skills": {
+      "attack": 60,
+      "resistance": 40,
+      "mobility": 6,
+      "punctuation": 40,
+      "support": 70
+    },
+    "evolutions": [
+      {
+        "id": 63,
+        "name": "HOOPA",
+        "avatar": "evolution-1-hoopa.png",
+        "level": null
+      },
+      {
+        "id": 64,
+        "name": "HOOPA LIBERTADO",
+        "avatar": "evolution-2-hoopa-unbound.png",
+        "level": null
+      }
+    ]
+  }

@@ -1,0 +1,18 @@
+{
+    "id": 30,
+    "name": "Cramorant",
+    "avatar": "cramorant",
+    "description": "Cramorant é o Pokémon Engolir. A Habilidade de Cramorant, Gulp Missile, permite que ataque cuspindo as presas que captura com o movimento Dive.",
+    "level": 3,
+    "stats_battle": ["Attacker", "Ranged"],
+    "color": "#2e91fb",
+    "uri": "cramorant",
+    "skills": {
+      "attack": 80,
+      "resistance": 60,
+      "mobility": 6,
+      "punctuation": 30,
+      "support": 20
+    },
+    "evolutions": []
+  }

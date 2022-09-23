@@ -1,0 +1,31 @@
+{
+    "id": 10,
+    "name": "Blissey",
+    "avatar": "blissey",
+    "description": "Blissey é um ás de suporte, com movimentos que devolvem HP, curam problemas de status e melhoram aliados!",
+    "level": 1,
+    "stats_battle": ["Supporter", "Melee"],
+    "color": "#bc6382",
+    "uri": "blissey",
+    "skills": {
+      "attack": 20,
+      "resistance": 70,
+      "mobility": 3,
+      "punctuation": 30,
+      "support": 70
+    },
+    "evolutions": [
+      {
+        "id": 16,
+        "name": "CHANSEY",
+        "avatar": "evolution-1-chansey.png",
+        "level": 1
+      },
+      {
+        "id": 17,
+        "name": "BLISSEY",
+        "avatar": "evolution-2-blissey.png",
+        "level": 4
+      }
+    ]
+  }

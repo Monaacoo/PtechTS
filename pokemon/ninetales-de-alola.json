@@ -1,0 +1,31 @@
+{
+    "id": 29,
+    "name": "Ninetales De Alola",
+    "avatar": "ninetales-de-alola",
+    "description": "Ninetales de Alola usa movimentos que congelam seus oponentes, impedindo-os de se mover ou atacar.",
+    "level": 2,
+    "stats_battle": ["Attacker", "Ranged"],
+    "color": "#a7d5e6",
+    "uri": "ninetales-de-alola",
+    "skills": {
+      "attack": 80,
+      "resistance": 30,
+      "mobility": 3,
+      "punctuation": 50,
+      "support": 60
+    },
+    "evolutions": [
+      {
+        "id": 52,
+        "name": "VULPIX DE ALOLA",
+        "avatar": "evolution-1-alolan-vulpix.png",
+        "level": 1
+      },
+      {
+        "id": 53,
+        "name": "NINETALES DE ALOLA",
+        "avatar": "evolution-2-alolan-ninetales.png",
+        "level": 4
+      }
+    ]
+  }

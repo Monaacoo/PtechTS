@@ -1,0 +1,37 @@
+{
+    "id": 13,
+    "name": "Blastoise",
+    "avatar": "blastoise",
+    "description": "Blastoise tem um corpo enorme para proteger seus aliados e poder o bastante para detonar seus oponentes com ataques aquáticos.",
+    "level": 2,
+    "stats_battle": ["Defender", "Ranged"],
+    "color": "#7ebcd8",
+    "uri": "blastoise",
+    "skills": {
+      "attack": 40,
+      "resistance": 70,
+      "mobility": 4,
+      "punctuation": 40,
+      "support": 60
+    },
+    "evolutions": [
+      {
+        "id": 24,
+        "name": "SQUIRTLE",
+        "avatar": "evolution-1-squirtle.png",
+        "level": 1
+      },
+      {
+        "id": 25,
+        "name": "WARTORTLE",
+        "avatar": "evolution-2-wartortle.png",
+        "level": 5
+      },
+      {
+        "id": 26,
+        "name": "BLASTOISE",
+        "avatar": "evolution-3-blastoise.png",
+        "level": 9
+      }
+    ]
+  }

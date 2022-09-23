@@ -1,0 +1,37 @@
+{
+    "id": 27,
+    "name": "Machamp",
+    "avatar": "machamp",
+    "description": "Machamp é um Pokémon especializado em combate corpo-a-corpo, movido por seus potentes movimentos de luta.",
+    "level": 2,
+    "stats_battle": ["All-rounder", "Melee"],
+    "color": "#87abc3",
+    "uri": "machamp",
+    "skills": {
+      "attack": 80,
+      "resistance": 50,
+      "mobility": 5,
+      "punctuation": 50,
+      "support": 10
+    },
+    "evolutions": [
+      {
+        "id": 47,
+        "name": "MACHOP",
+        "avatar": "evolution-1-machop.png",
+        "level": 1
+      },
+      {
+        "id": 48,
+        "name": "MACHOKE",
+        "avatar": "evolution-2-machoke.png",
+        "level": 5
+      },
+      {
+        "id": 49,
+        "name": "MACHAMP",
+        "avatar": "evolution-3-machamp.png",
+        "level": 9
+      }
+    ]
+  }

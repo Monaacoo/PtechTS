@@ -1,0 +1,18 @@
+{
+    "id": 14,
+    "name": "Gardevoir",
+    "avatar": "gardevoir",
+    "description": "Gardevoir atinge seus oponentes de longe com seu misterioso poder psíquico. Muitos dos seus movimentos têm uma dinâmica única, mas são poderosos quando usados de maneira eficaz.",
+    "level": 2,
+    "stats_battle": ["Attacker", "Ranged"],
+    "color": "#e3e4e1",
+    "uri": "gardevoir",
+    "skills": {
+      "attack": 70,
+      "resistance": 30,
+      "mobility": 3,
+      "punctuation": 60,
+      "support": 30
+    },
+    "evolutions": []
+  }

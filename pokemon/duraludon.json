@@ -1,0 +1,18 @@
+{
+    "id": 4,
+    "name": "Duraludon",
+    "avatar": "duraludon",
+    "description": "Adicione um Atacante de Longo alcance à sua equipe do Pokémon UNITE com um Pokémon poderoso que não vê a hora de atropelar os oponentes. Duraludon está pronto para lançar energia, fazer o chão tremer e acabar com a ordem para conseguir a vitória.",
+    "level": 2,
+    "stats_battle": ["Attacker", "Ranged"],
+    "color": "#535165",
+    "uri": "duraludon",
+    "skills": {
+      "attack": 70,
+      "resistance": 70,
+      "mobility": 5,
+      "punctuation": 50,
+      "support": 10
+    },
+    "evolutions": []
+  }

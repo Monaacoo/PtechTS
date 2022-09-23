@@ -1,0 +1,31 @@
+{
+    "id": 23,
+    "name": "Eldegoss",
+    "avatar": "eldegoss",
+    "description": "Eldegoss é um grande apoiador que consegue restaurar o HP dos seus aliados e aumentar a velocidade dos seus movimentos.",
+    "level": 1,
+    "stats_battle": ["Supporter", "Ranged"],
+    "color": "#d3c811",
+    "uri": "eldegoss",
+    "skills": {
+      "attack": 30,
+      "resistance": 40,
+      "mobility": 5,
+      "punctuation": 50,
+      "support": 80
+    },
+    "evolutions": [
+      {
+        "id": 42,
+        "name": "GOSSIFLEUR",
+        "avatar": "evolution-1-gossifleur.png",
+        "level": 1
+      },
+      {
+        "id": 43,
+        "name": "ELDEGOSS",
+        "avatar": "evolution-2-eldegoss.png",
+        "level": 4
+      }
+    ]
+  }

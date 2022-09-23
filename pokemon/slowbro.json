@@ -1,0 +1,31 @@
+{
+    "id": 22,
+    "name": "Slowbro",
+    "avatar": "slowbro",
+    "description": "Não importa a situação, Slowbro sempre leva a vida no seu próprio ritmo. Com sua alta defesa e falta de noção habitual, Slowbro não dá a mínima para os ataques dos oponentes.",
+    "level": 2,
+    "stats_battle": ["Defender", "Ranged"],
+    "color": "#d8a5b1",
+    "uri": "slowbro",
+    "skills": {
+      "attack": 30,
+      "resistance": 80,
+      "mobility": 3,
+      "punctuation": 30,
+      "support": 80
+    },
+    "evolutions": [
+      {
+        "id": 40,
+        "name": "SLOWPOKE",
+        "avatar": "evolution-1-slowpoke.png",
+        "level": 1
+      },
+      {
+        "id": 41,
+        "name": "SLOWBRO",
+        "avatar": "evolution-2-slowbro.png",
+        "level": 4
+      }
+    ]
+  }

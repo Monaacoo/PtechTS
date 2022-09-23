@@ -1,0 +1,31 @@
+{
+    "id": 2,
+    "name": "Azumarill",
+    "avatar": "azumarill",
+    "description": "Adicione um combatente Corpo a corpo Versátil à sua equipe embarcando em um redemoinho de emoções que vai jogar duro contra a concorrência. Azumarill está pronto para enfrentar qualquer desafio no Pokémon UNITE.",
+    "level": 1,
+    "stats_battle": ["All-rounder", "Melee"],
+    "color": "#26c2e0",
+    "uri": "azumarill",
+    "skills": {
+      "attack": 60,
+      "resistance": 60,
+      "mobility": 5,
+      "punctuation": 50,
+      "support": 10
+    },
+    "evolutions": [
+      {
+        "id": 1,
+        "name": "marill",
+        "avatar": "evolution-1-marill.png",
+        "level": 1
+      },
+      {
+        "id": 2,
+        "name": "azumarill",
+        "avatar": "evolution-2-azumarill.png",
+        "level": 5
+      }
+    ]
+  }

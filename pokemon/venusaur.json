@@ -1,0 +1,37 @@
+{
+    "id": 17,
+    "name": "Venusaur",
+    "avatar": "venusaur",
+    "description": "Quando seus movimentos acertam o alvo, Venusaur pode causar um dano enorme aos seus oponentes, mesmo de longe.",
+    "level": 2,
+    "stats_battle": ["Attacker", "Ranged"],
+    "color": "#5ae2e5",
+    "uri": "venusaur",
+    "skills": {
+      "attack": 90,
+      "resistance": 40,
+      "mobility": 4,
+      "punctuation": 50,
+      "support": 20
+    },
+    "evolutions": [
+      {
+        "id": 29,
+        "name": "BULBASAUR",
+        "avatar": "evolution-1-bulbasaur.png",
+        "level": 1
+      },
+      {
+        "id": 30,
+        "name": "IVYSAUR",
+        "avatar": "evolution-2-ivysaur.png",
+        "level": 5
+      },
+      {
+        "id": 31,
+        "name": "VENUSAUR",
+        "avatar": "evolution-3-venusaur.png",
+        "level": 9
+      }
+    ]
+  }

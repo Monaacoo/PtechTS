@@ -1,0 +1,31 @@
+{
+    "id": 15,
+    "name": "Sylveon",
+    "avatar": "sylveon",
+    "description": "Sylveon ataca os oponentes de longe enquanto aumenta suas características e restaura o seu HP.",
+    "level": 2,
+    "stats_battle": ["Attacker", "Ranged"],
+    "color": "#d67295",
+    "uri": "sylveon",
+    "skills": {
+      "attack": 70,
+      "resistance": 30,
+      "mobility": 3,
+      "punctuation": 70,
+      "support": 70
+    },
+    "evolutions": [
+      {
+        "id": 27,
+        "name": "EEVEE",
+        "avatar": "evolution-1-eevee.png",
+        "level": 1
+      },
+      {
+        "id": 28,
+        "name": "SYLVEON",
+        "avatar": "evolution-2-sylveon.png",
+        "level": 4
+      }
+    ]
+  }

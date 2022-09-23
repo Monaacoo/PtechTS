@@ -1,0 +1,37 @@
+{
+    "id": 5,
+    "name": "Aegislash",
+    "avatar": "aegislash",
+    "description": "Adicione um combatente Corpo a corpo Versátil à sua equipe com um Pokémon gracioso que alterna facilmente entre ataque e defesa. Aegislash está pronto para ajudar você a batalhar como um soberano usando movimentos dignos do Pokémon Espada Real.",
+    "level": 3,
+    "stats_battle": ["All-rounder", "Melee"],
+    "color": "#e4d974",
+    "uri": "aegislash",
+    "skills": {
+      "attack": 70,
+      "resistance": 40,
+      "mobility": 8,
+      "punctuation": 50,
+      "support": 0
+    },
+    "evolutions": [
+      {
+        "id": 3,
+        "name": "HONEDGE",
+        "avatar": "evolution-1-honedge.png",
+        "level": 1
+      },
+      {
+        "id": 4,
+        "name": "DOUBLADE",
+        "avatar": "evolution-2-doublade.png",
+        "level": 5
+      },
+      {
+        "id": 5,
+        "name": "AEGISLASH",
+        "avatar": "evolution-3-aegislash.png",
+        "level": 7
+      }
+    ]
+  }

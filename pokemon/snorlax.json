@@ -1,0 +1,18 @@
+{
+    "id": 19,
+    "name": "Snorlax",
+    "avatar": "snorlax",
+    "description": "Snorlax consegue aguentar muitos ataques. É um Pokémon confiável que pode proteger seus aliados.",
+    "level": 1,
+    "stats_battle": ["Defender", "Melee"],
+    "color": "#2589aa",
+    "uri": "snorlax",
+    "skills": {
+      "attack": 30,
+      "resistance": 100,
+      "mobility": 4,
+      "punctuation": 30,
+      "support": 50
+    },
+    "evolutions": []
+  }

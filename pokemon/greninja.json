@@ -1,0 +1,37 @@
+{
+    "id": 21,
+    "name": "Greninja",
+    "avatar": "greninja",
+    "description": "Greninja é um Pokémon que usa cortinas de fumaça e cópias ilusórias de si mesmo para se esconder.",
+    "level": 3,
+    "stats_battle": ["Attacker", "Ranged"],
+    "color": "#1b79d4",
+    "uri": "greninja",
+    "skills": {
+      "attack": 80,
+      "resistance": 40,
+      "mobility": 6,
+      "punctuation": 60,
+      "support": 30
+    },
+    "evolutions": [
+      {
+        "id": 37,
+        "name": "FROAKIE",
+        "avatar": "evolution-1-froakie.png",
+        "level": 1
+      },
+      {
+        "id": 38,
+        "name": "FROGADIER",
+        "avatar": "evolution-2-frogadier.png",
+        "level": 5
+      },
+      {
+        "id": 39,
+        "name": "GRENINJA",
+        "avatar": "evolution-3-greninja.png",
+        "level": 7
+      }
+    ]
+  }

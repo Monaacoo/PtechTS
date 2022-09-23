@@ -1,0 +1,31 @@
+{
+    "id": 9,
+    "name": "Greedent",
+    "avatar": "greedent",
+    "description": "Armazene e consuma Frutas estrategicamente para sair na frente da oposição com este Defender que ama travessuras!",
+    "level": 3,
+    "stats_battle": ["Defender", "Melee"],
+    "color": "#ad5232",
+    "uri": "greedent",
+    "skills": {
+      "attack": 80,
+      "resistance": 30,
+      "mobility": 4,
+      "punctuation": 20,
+      "support": 20
+    },
+    "evolutions": [
+      {
+        "id": 14,
+        "name": "SKWOVET",
+        "avatar": "evolution-1-skwovet.png",
+        "level": 1
+      },
+      {
+        "id": 15,
+        "name": "GREEDENT",
+        "avatar": "evolution-2-greedent.png",
+        "level": 5
+      }
+    ]
+  }

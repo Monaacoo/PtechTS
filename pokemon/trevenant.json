@@ -1,0 +1,31 @@
+{
+    "id": 6,
+    "name": "Trevenant",
+    "avatar": "trevenant",
+    "description": "Adicione um Defensor corpo a corpo à sua equipe do Pokémon UNITE com um Pokémon espectral que está prestes a aterrorizar seus oponentes. Trevenant está pronto para desferir fogo sinistro, uns tapões à moda antiga e maldições aterrorizantes para conseguir a vitória.",
+    "level": 2,
+    "stats_battle": ["Defender", "Melee"],
+    "color": "#8b634f",
+    "uri": "trevenant",
+    "skills": {
+      "attack": 40,
+      "resistance": 80,
+      "mobility": 4,
+      "punctuation": 50,
+      "support": 50
+    },
+    "evolutions": [
+      {
+        "id": 6,
+        "name": "PHANTUMP",
+        "avatar": "evolution-1-phantump.png",
+        "level": 1
+      },
+      {
+        "id": 7,
+        "name": "TREVENANT",
+        "avatar": "evolution-2-trevenant.png",
+        "level": 5
+      }
+    ]
+  }

@@ -1,0 +1,31 @@
+{
+    "id": 20,
+    "name": "Crustle",
+    "avatar": "crustle",
+    "description": "Crustle detém seus oponentes usando muitos movimentos diferentes.",
+    "level": 1,
+    "stats_battle": ["Defender", "Melee"],
+    "color": "#b9552f",
+    "uri": "crustle",
+    "skills": {
+      "attack": 30,
+      "resistance": 80,
+      "mobility": 3,
+      "punctuation": 40,
+      "support": 60
+    },
+    "evolutions": [
+      {
+        "id": 35,
+        "name": "DWEEBLE",
+        "avatar": "evolution-1-dweeble.png",
+        "level": 1
+      },
+      {
+        "id": 36,
+        "name": "CRUSTLE",
+        "avatar": "evolution-2-crustle.png",
+        "level": 4
+      }
+    ]
+  }

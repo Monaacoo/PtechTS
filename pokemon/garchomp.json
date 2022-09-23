@@ -1,0 +1,37 @@
+{
+    "id": 32,
+    "name": "Garchomp",
+    "avatar": "garchomp",
+    "description": "A Habilidade de Garchomp, Rough Skin, significa que, às vezes, ele consegue causar dano aos Pokémon que o atingem, então os oponentes que atacarem Garchomp sem tomar cuidado podem acabar levando dano de volta. Além disso, ao usar Dig, Garchomp consegue atacar seus oponentes de surpresa surgindo por debaixo da terra.",
+    "level": 2,
+    "stats_battle": ["All-rounder", "Melee"],
+    "color": "#5e5d95",
+    "uri": "garchomp",
+    "skills": {
+      "attack": 70,
+      "resistance": 70,
+      "mobility": 5,
+      "punctuation": 50,
+      "support": 10
+    },
+    "evolutions": [
+      {
+        "id": 57,
+        "name": "GIBLE",
+        "avatar": "evolution-1-gible.png",
+        "level": 1
+      },
+      {
+        "id": 58,
+        "name": "GABITE",
+        "avatar": "evolution-2-gabite.png",
+        "level": 6
+      },
+      {
+        "id": 59,
+        "name": "GARCHOMP",
+        "avatar": "evolution-3-garchomp.png",
+        "level": 10
+      }
+    ]
+  }

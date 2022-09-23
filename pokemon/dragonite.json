@@ -1,0 +1,37 @@
+{
+    "id": 11,
+    "name": "Dragonite",
+    "avatar": "dragonite",
+    "description": "Dragonite está pronto para detonar com a competição no Pokémon UNITE como um Melee All-Rounder. Controlando o poder do fogo, da água e da eletricidade, Dragonite é um Pokémon poderosíssimo que está pronto para trazer a vitória de maneira arrasadora.",
+    "level": 1,
+    "stats_battle": ["All-rounder", "Melee"],
+    "color": "#FFA800",
+    "uri": "dragonite",
+    "skills": {
+      "attack": 80,
+      "resistance": 50,
+      "mobility": 5,
+      "punctuation": 60,
+      "support": 10
+    },
+    "evolutions": [
+      {
+        "id": 18,
+        "name": "DRATINI",
+        "avatar": "evolution-1-dratini.png",
+        "level": 1
+      },
+      {
+        "id": 19,
+        "name": "DRAGONAIR",
+        "avatar": "evolution-2-dragonair.png",
+        "level": 5
+      },
+      {
+        "id": 20,
+        "name": "DRAGONITE",
+        "avatar": "evolution-3-dragonite.png",
+        "level": 8
+      }
+    ]
+  }

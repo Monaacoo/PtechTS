@@ -1,0 +1,37 @@
+{
+    "id": 24,
+    "name": "Talonflame",
+    "avatar": "talonflame",
+    "description": "Talonflame brinca com a equipe oponente ao usar seus movimentos para realizar manobras rápidas e voar sobre obstáculos.",
+    "level": 1,
+    "stats_battle": ["Speedster", "Melee"],
+    "color": "#98a1a8",
+    "uri": "talonflame",
+    "skills": {
+      "attack": 50,
+      "resistance": 30,
+      "mobility": 10,
+      "punctuation": 90,
+      "support": 10
+    },
+    "evolutions": [
+      {
+        "id": 44,
+        "name": "FLETCHLING",
+        "avatar": "evolution-1-fletchling.png",
+        "level": 1
+      },
+      {
+        "id": 45,
+        "name": "FLETCHINDER",
+        "avatar": "evolution-2-fletchinder.png",
+        "level": 5
+      },
+      {
+        "id": 46,
+        "name": "TALONFLAME",
+        "avatar": "evolution-3-talonflame.png",
+        "level": 7
+      }
+    ]
+  }

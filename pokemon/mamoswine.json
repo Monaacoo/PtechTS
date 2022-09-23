@@ -1,0 +1,37 @@
+{
+    "id": 12,
+    "name": "Mamoswine",
+    "avatar": "mamoswine",
+    "description": "Mamoswine dá o bote com ataques versáteis de arrepiar que podem congelar os oponentes e impedir que eles se movam.",
+    "level": 2,
+    "stats_battle": ["Defender", "Melee"],
+    "color": "#a96832",
+    "uri": "mamoswine",
+    "skills": {
+      "attack": 50,
+      "resistance": 80,
+      "mobility": 4,
+      "punctuation": 30,
+      "support": 50
+    },
+    "evolutions": [
+      {
+        "id": 21,
+        "name": "SWINUB",
+        "avatar": "evolution-1-swinub.png",
+        "level": 1
+      },
+      {
+        "id": 22,
+        "name": "PILOSWINE",
+        "avatar": "evolution-2-piloswine.png",
+        "level": 6
+      },
+      {
+        "id": 23,
+        "name": "MAMOSWINE",
+        "avatar": "evolution-3-mamoswine.png",
+        "level": 10
+      }
+    ]
+  }

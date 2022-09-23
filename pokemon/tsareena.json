@@ -1,0 +1,37 @@
+{
+    "id": 7,
+    "name": "Tsareena",
+    "avatar": "tsareena",
+    "description": "Tsareena está pronta para deslizar, chutar e pisar forte em seu caminho para a vitória.",
+    "level": 3,
+    "stats_battle": ["All-rounder", "Melee"],
+    "color": "#e984a8",
+    "uri": "tsareena",
+    "skills": {
+      "attack": 70,
+      "resistance": 30,
+      "mobility": 3,
+      "punctuation": 70,
+      "support": 70
+    },
+    "evolutions": [
+      {
+        "id": 8,
+        "name": "BOUNSWEET",
+        "avatar": "evolution-1-bounsweet.png",
+        "level": 1
+      },
+      {
+        "id": 9,
+        "name": "STEENEE",
+        "avatar": "evolution-2-steenee.png",
+        "level": 4
+      },
+      {
+        "id": 10,
+        "name": "TSAREENA",
+        "avatar": "evolution-3-tsareena.png",
+        "level": 6
+      }
+    ]
+  }

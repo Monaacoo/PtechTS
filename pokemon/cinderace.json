@@ -1,0 +1,37 @@
+{
+    "id": 33,
+    "name": "Cinderace",
+    "avatar": "cinderace",
+    "description": "Cinderace não tem apenas um poder de ataque muito alto, mas sua velocidade também deixa os oponentes enlouquecidos.",
+    "level": 1,
+    "stats_battle": ["Attacker", "Ranged"],
+    "color": "#bf3b1a",
+    "uri": "cinderace",
+    "skills": {
+      "attack": 80,
+      "resistance": 30,
+      "mobility": 6,
+      "punctuation": 50,
+      "support": 10
+    },
+    "evolutions": [
+      {
+        "id": 60,
+        "name": "SCORBUNNY",
+        "avatar": "evolution-1-scorbunny.png",
+        "level": 1
+      },
+      {
+        "id": 61,
+        "name": "RABOOT",
+        "avatar": "evolution-2-raboot.png",
+        "level": 5
+      },
+      {
+        "id": 62,
+        "name": "CINDERACE",
+        "avatar": "evolution-3-cinderace.png",
+        "level": 7
+      }
+    ]
+  }

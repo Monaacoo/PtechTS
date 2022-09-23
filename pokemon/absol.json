@@ -1,0 +1,18 @@
+{
+    "id": 26,
+    "name": "Absol",
+    "avatar": "absol",
+    "description": "Absol é um Pokémon que consegue atravessar distâncias em um instante e causar uma quantidade enorme de dano.",
+    "level": 3,
+    "stats_battle": ["Speedster", "Melee"],
+    "color": "#cdd2d7",
+    "uri": "absol",
+    "skills": {
+      "attack": 70,
+      "resistance": 40,
+      "mobility": 8,
+      "punctuation": 50,
+      "support": 10
+    },
+    "evolutions": []
+  }

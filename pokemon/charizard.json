@@ -1,0 +1,37 @@
+{
+    "id": 18,
+    "name": "Charizard",
+    "avatar": "charizard",
+    "description": "Enquanto ainda é Charmander, não é o mais confiável, mas ao evoluir para Charizard, consegue usar seus movimentos poderosos para atacar e causar dano em uma área bem grande.",
+    "level": 1,
+    "stats_battle": ["All-rounder", "Melee"],
+    "color": "#FFA800",
+    "uri": "charizard",
+    "skills": {
+      "attack": 70,
+      "resistance": 60,
+      "mobility": 9,
+      "punctuation": 60,
+      "support": 10
+    },
+    "evolutions": [
+      {
+        "id": 32,
+        "name": "CHARMANDER",
+        "avatar": "evolution-1-charmander.png",
+        "level": 1
+      },
+      {
+        "id": 33,
+        "name": "CHARMELEON",
+        "avatar": "evolution-2-charmeleon.png",
+        "level": 4
+      },
+      {
+        "id": 34,
+        "name": "CHARIZARD",
+        "avatar": "evolution-3-charizard.png",
+        "level": 9
+      }
+    ]
+  }

@@ -1,0 +1,37 @@
+{
+    "id": 8,
+    "name": "Decidueye",
+    "avatar": "decidueye",
+    "description": "Surpreenda seus inimigos sorrateiramente com uma salva de flechas!",
+    "level": 2,
+    "stats_battle": ["Attacker", "Ranged"],
+    "color": "#e2ded9",
+    "uri": "decidueye",
+    "skills": {
+      "attack": 70,
+      "resistance": 30,
+      "mobility": 3,
+      "punctuation": 70,
+      "support": 70
+    },
+    "evolutions": [
+      {
+        "id": 11,
+        "name": "ROWLET",
+        "avatar": "evolution-1-rowlet.png",
+        "level": 1
+      },
+      {
+        "id": 12,
+        "name": "DARTRIX",
+        "avatar": "evolution-2-dartrix.png",
+        "level": 4
+      },
+      {
+        "id": 13,
+        "name": "DECIDUEYE",
+        "avatar": "evolution-3-decidueye.png",
+        "level": 7
+      }
+    ]
+  }

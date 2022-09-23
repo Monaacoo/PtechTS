@@ -1,0 +1,18 @@
+{
+    "id": 3,
+    "name": "Pikachu",
+    "avatar": "pikachu",
+    "description": "Pikachu é um Pokémon especializado em atacar oponentes de longe com eletricidade. Às vezes, seus ataques até deixam os Pokémon oponentes paralisados!",
+    "level": 1,
+    "stats_battle": ["Attacker", "Ranged"],
+    "color": "#ddc81a",
+    "uri": "pikachu",
+    "skills": {
+      "attack": 70,
+      "resistance": 30,
+      "mobility": 5,
+      "punctuation": 40,
+      "support": 30
+    },
+    "evolutions": []
+  }

@@ -1,0 +1,37 @@
+{
+    "id": 31,
+    "name": "Gengar",
+    "avatar": "gengar",
+    "description": "Gengar, um Pokémon que espreita nas sombras, é um mestre dos ataques-surpresa.",
+    "level": 3,
+    "stats_battle": ["Speedster", "Melee"],
+    "color": "#9478c4",
+    "uri": "gengar",
+    "skills": {
+      "attack": 90,
+      "resistance": 40,
+      "mobility": 8,
+      "punctuation": 60,
+      "support": 10
+    },
+    "evolutions": [
+      {
+        "id": 54,
+        "name": "GASTLY",
+        "avatar": "evolution-1-gastly.png",
+        "level": 1
+      },
+      {
+        "id": 55,
+        "name": "HAUNTER",
+        "avatar": "evolution-2-haunter.png",
+        "level": 5
+      },
+      {
+        "id": 56,
+        "name": "GENGAR",
+        "avatar": "evolution-3-gengar.png",
+        "level": 9
+      }
+    ]
+  }

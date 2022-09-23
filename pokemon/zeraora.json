@@ -1,0 +1,18 @@
+{
+    "id": 16,
+    "name": "Zeraora",
+    "avatar": "zeraora",
+    "description": "Zeraora consegue atravessar a distância entre ele e seu oponente com a velocidade de um raio, causando uma quantidade enorme de dano ao mesmo tempo.",
+    "level": 3,
+    "stats_battle": ["Speedster", "Melee"],
+    "color": "#d4b913",
+    "uri": "zeraora",
+    "skills": {
+      "attack": 70,
+      "resistance": 70,
+      "mobility": 3,
+      "punctuation": 80,
+      "support": 10
+    },
+    "evolutions": []
+  }

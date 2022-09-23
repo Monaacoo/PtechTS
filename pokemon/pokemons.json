@@ -1,0 +1,240 @@
+[
+    {
+        "id": 1,
+        "name": "Mr. Mime",
+        "avatar": "mr-mime",
+        "color": "#e89aaf",
+        "uri": "mr-mime"
+    },
+    {
+        "id": 2,
+        "name": "Azumarill",
+        "avatar": "azumarill",
+        "color": "#26c2e0",
+        "uri": "azumarill"
+    },
+    {
+        "id": 3,
+        "name": "Pikachu",
+        "avatar": "pikachu",
+        "color": "#ddc81a",
+        "uri": "pikachu"
+    },
+    {
+        "id": 4,
+        "name": "Duraludon",
+        "avatar": "duraludon",
+        "color": "#535165",
+        "uri": "duraludon"
+    },
+    {
+        "id": 5,
+        "name": "Aegislash",
+        "avatar": "aegislash",
+        "color": "#e4d974",
+        "uri": "aegislash"
+    },
+    {
+        "id": 6,
+        "name": "Trevenant",
+        "avatar": "trevenant",
+        "color": "#8b634f",
+        "uri": "trevenant"
+    },
+    {
+        "id": 7,
+        "name": "Tsareena",
+        "avatar": "tsareena",
+        "color": "#e984a8",
+        "uri": "tsareena"
+    },
+    {
+        "id": 8,
+        "name": "Decidueye",
+        "avatar": "decidueye",
+        "color": "#e2ded9",
+        "uri": "decidueye"
+    },
+    {
+        "id": 9,
+        "name": "Greedent",
+        "avatar": "greedent",
+        "color": "#ad5232",
+        "uri": "greedent"
+    },
+    {
+        "id": 10,
+        "name": "Blissey",
+        "avatar": "blissey",
+        "color": "#bc6382",
+        "uri": "blissey"
+    },
+    {
+        "id": 11,
+        "name": "Dragonite",
+        "avatar": "dragonite",
+        "color": "#FFA800",
+        "uri": "dragonite"
+    },
+    {
+        "id": 12,
+        "name": "Mamoswine",
+        "avatar": "mamoswine",
+        "color": "#a96832",
+        "uri": "mamoswine"
+    },
+    {
+        "id": 13,
+        "name": "Blastoise",
+        "avatar": "blastoise",
+        "color": "#7ebcd8",
+        "uri": "blastoise"
+    },
+    {
+        "id": 14,
+        "name": "Gardevoir",
+        "avatar": "gardevoir",
+        "color": "#e3e4e1",
+        "uri": "gardevoir"
+    },
+    {
+        "id": 15,
+        "name": "Sylveon",
+        "avatar": "sylveon",
+        "color": "#d67295",
+        "uri": "sylveon"
+    },
+    {
+        "id": 16,
+        "name": "Zeraora",
+        "avatar": "zeraora",
+        "color": "#d4b913",
+        "uri": "zeraora"
+    },
+    {
+        "id": 17,
+        "name": "Venusaur",
+        "avatar": "venusaur",
+        "color": "#5ae2e5",
+        "uri": "venusaur"
+    },
+    {
+        "id": 18,
+        "name": "Charizard",
+        "avatar": "charizard",
+        "color": "#FFA800",
+        "uri": "charizard"
+    },
+    {
+        "id": 19,
+        "name": "Snorlax",
+        "avatar": "snorlax",
+        "color": "#2589aa",
+        "uri": "snorlax"
+    },
+    {
+        "id": 20,
+        "name": "Crustle",
+        "avatar": "crustle",
+        "color": "#b9552f",
+        "uri": "crustle"
+    },
+    {
+        "id": 21,
+        "name": "Greninja",
+        "avatar": "greninja",
+        "color": "#1b79d4",
+        "uri": "greninja"
+    },
+    {
+        "id": 22,
+        "name": "Slowbro",
+        "avatar": "slowbro",
+        "color": "#d8a5b1",
+        "uri": "slowbro"
+    },
+    {
+        "id": 23,
+        "name": "Eldegoss",
+        "avatar": "eldegoss",
+        "color": "#d3c811",
+        "uri": "eldegoss"
+    },
+    {
+        "id": 24,
+        "name": "Talonflame",
+        "avatar": "talonflame",
+        "color": "#98a1a8",
+        "uri": "talonflame"
+    },
+    {
+        "id": 25,
+        "name": "Lucario",
+        "avatar": "lucario",
+        "color": "#05b9dd",
+        "uri": "lucario"
+    },
+    {
+        "id": 26,
+        "name": "Absol",
+        "avatar": "absol",
+        "color": "#cdd2d7",
+        "uri": "absol"
+    },
+    {
+        "id": 27,
+        "name": "Machamp",
+        "avatar": "machamp",
+        "color": "#87abc3",
+        "uri": "machamp"
+    },
+    {
+        "id": 28,
+        "name": "Wigglytuff",
+        "avatar": "wigglytuff",
+        "color": "#deb0bf",
+        "uri": "wigglytuff"
+    },
+    {
+        "id": 29,
+        "name": "Ninetales De Alola",
+        "avatar": "ninetales-de-alola",
+        "color": "#a7d5e6",
+        "uri": "ninetales-de-alola"
+    },
+    {
+        "id": 30,
+        "name": "Cramorant",
+        "avatar": "cramorant",
+        "color": "#2e91fb",
+        "uri": "cramorant"
+    },
+    {
+        "id": 31,
+        "name": "Gengar",
+        "avatar": "gengar",
+        "color": "#9478c4",
+        "uri": "gengar"
+    },
+    {
+        "id": 32,
+        "name": "Garchomp",
+        "avatar": "garchomp",
+        "color": "#5e5d95",
+        "uri": "garchomp"
+    },
+    {
+        "id": 33,
+        "name": "Cinderace",
+        "avatar": "cinderace",
+        "color": "#bf3b1a",
+        "uri": "cinderace"
+    },
+    {
+        "id": 34,
+        "name": "Hoopa",
+        "avatar": "hoopa",
+        "color": "#c36d92",
+        "uri": "hoopa"
+    }
+]

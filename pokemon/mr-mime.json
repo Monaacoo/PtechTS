@@ -1,0 +1,18 @@
+{
+    "id": 1,
+    "name": "Mr. Mime",
+    "avatar": "mr-mime",
+    "description": "Mr. Mime é especializado em deter os Pokémon oponentes com movimentos traiçoeiros.",
+    "level": 2,
+    "stats_battle": ["Supporter", "Melee"],
+    "color": "#e89aaf",
+    "uri": "mr-mime",
+    "skills": {
+      "attack": 30,
+      "resistance": 80,
+      "mobility": 2,
+      "punctuation": 30,
+      "support": 80
+    },
+    "evolutions": []
+  }

@@ -1,0 +1,18 @@
+{
+    "id": 25,
+    "name": "Lucario",
+    "avatar": "lucario",
+    "description": "Lucario é um Pokémon bem balanceado que combina a velocidade ao poder de ataque.",
+    "level": 3,
+    "stats_battle": ["All-rounder", "Melee"],
+    "color": "#05b9dd",
+    "uri": "lucario",
+    "skills": {
+      "attack": 60,
+      "resistance": 50,
+      "mobility": 7,
+      "punctuation": 60,
+      "support": 10
+    },
+    "evolutions": []
+  }

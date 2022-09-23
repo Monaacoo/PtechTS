@@ -1,0 +1,31 @@
+{
+    "id": 28,
+    "name": "Wigglytuff",
+    "avatar": "wigglytuff",
+    "description": "Wigglytuff aprende muitos movimentos que podem acabar com os planos do seus oponentes, tornando-o uma boa peça para usar em estratégias táticas em batalha com seus aliados de equipe.",
+    "level": 2,
+    "stats_battle": ["Supporter", "Ranged"],
+    "color": "#deb0bf",
+    "uri": "wigglytuff",
+    "skills": {
+      "attack": 20,
+      "resistance": 50,
+      "mobility": 5,
+      "punctuation": 40,
+      "support": 90
+    },
+    "evolutions": [
+      {
+        "id": 50,
+        "name": "JIGGLYPUFF",
+        "avatar": "evolution-1-jigglypuff.png",
+        "level": 1
+      },
+      {
+        "id": 51,
+        "name": "WIGGLYTUFF",
+        "avatar": "evolution-2-wigglytuff.png",
+        "level": 4
+      }
+    ]
+  }
